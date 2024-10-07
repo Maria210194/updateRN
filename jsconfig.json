@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+      "checkJs": true,
+      "resolveJsonModule": true,
+      "moduleResolution": "node",
+      "jsx": "react"
+    },
+    "exclude": ["node_modules", "**/node_modules/*"]
+  }
